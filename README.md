@@ -21,5 +21,4 @@ This web application allows users to quickly check current weather conditions fo
 - If the location is not found, an error message will be displayed.
 
 ## Access
-You can access the webpage using the link below:
-```https://mehmetfesli1.github.io/Weather-App/```
+You can access the webpage using the link : [ https://mehmetfesli1.github.io/Weather-App/ ]
