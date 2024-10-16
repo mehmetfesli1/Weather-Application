@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #0606;
+    background: #34495e ;
 }
 
 .container{
@@ -35,7 +35,7 @@ body{
 }
 
 .search-box input{
-    color: #06283D;
+    color: #34495e ;
     width: 80%;
     font-size: 22px;
     font-weight: 500;
@@ -54,7 +54,7 @@ body{
     cursor: pointer;
     width: 50px;
     height: 50px;
-    color: #06283D;
+    color: #34495e ;
     background: #dff6ff;
     border-radius: 50%;
     font-size: 20px;
@@ -68,7 +68,7 @@ body{
 
 .search-box i{
     position: absolute;
-    color: #06283D;
+    color: #34495e ;
     font-size: 26px;
 }
 
@@ -172,8 +172,8 @@ body{
     opacity: 0;
 }
 
-.fade-in{
-    animation: 0.5s faddeIn forwards;
+.fadeIn{
+    animation: 0.5s fadeIn forwards;
     animation-delay: 0.5s;
 }
 
