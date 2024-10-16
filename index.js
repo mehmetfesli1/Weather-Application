@@ -64,7 +64,7 @@ search.addEventListener('click', () => {
             temperature.innerHTML = `${json.current.temp_f.toFixed(1)}<span>°F</span>`;
             description.innerHTML = json.current.condition.text;
             humidity.innerHTML = `${json.current.humidity}%`;
-            wind.innerHTML = `${json.current.wind_mph.toFixed(1)}Km/h`;
+            wind.innerHTML = `${json.current.wind_mph.toFixed(1)}M/hr`;
 
             weatherBox.style.display = '';
             weatherDetails.style.display = '';
