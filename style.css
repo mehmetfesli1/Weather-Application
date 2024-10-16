@@ -171,3 +171,15 @@ body{
     scale: 0;
     opacity: 0;
 }
+
+.fade-in{
+    animation: 0.5s faddeIn forwards;
+    animation-delay: 0.5s;
+}
+
+@keyframes fadeIn{
+    to {
+        scale: 1;
+        opacity: 1;
+    }
+}
